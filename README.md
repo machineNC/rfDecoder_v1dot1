@@ -6,3 +6,5 @@ those values to a screen in addition to recording the values to a .csv value all
 when retrieving these values to replace your RF remotes. Most of the code is simply taking the RCSwitch Library example code
 along with the Elegoo TFT display example and combining them. An example of the hardware for this code to be applicable can be 
 found under my open-source page at machineandc.tech.
+
+![IMG_0409](https://user-images.githubusercontent.com/100453008/166859982-7eaec018-dcac-4fa9-a66b-db910b4a0e2f.jpg)
